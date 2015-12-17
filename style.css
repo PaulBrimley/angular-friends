@@ -28,7 +28,8 @@ input, select, form, ul {
 
 .friends{
 
-}body, html, h1, h2, h3, h4, h5, h6, ul{
+}
+body, html, h1, h2, h3, h4, h5, h6, ul{
 	padding: 0px;
 	margin: 0px;
 	font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;

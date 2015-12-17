@@ -7,8 +7,8 @@ angular.module('mainApp').controller('mainCtrl', function($scope) {
 		return friend.current_location.city + ', ' + friend.current_location.state + ', ' + friend.current_location.country;
 	}
 
-  // $scope.sortBy = 'name';
-  // $scope.ascDesc = "+";
+  $scope.sortBy = 'name';
+  $scope.ascDesc = "+";
 
 	$scope.friends = [
   {
